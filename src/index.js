@@ -7,7 +7,7 @@ import Footer from './Components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
 import Navbar from './Components/Navbar';
-
+import { HashRouter,Route, Switch} from "react-router-dom";
 ReactDOM.render(
   <React.StrictMode>
     <HashRouter basename={process.env.PUBLIC_URL + "/"}>
