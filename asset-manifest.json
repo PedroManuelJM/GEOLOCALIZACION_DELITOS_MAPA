@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GEOLOCALIZACION_DELITOS_MAPA/static/css/main.1bb419ac.chunk.css",
-    "main.js": "/GEOLOCALIZACION_DELITOS_MAPA/static/js/main.7073aa4f.chunk.js",
-    "main.js.map": "/GEOLOCALIZACION_DELITOS_MAPA/static/js/main.7073aa4f.chunk.js.map",
+    "main.js": "/GEOLOCALIZACION_DELITOS_MAPA/static/js/main.49abf21b.chunk.js",
+    "main.js.map": "/GEOLOCALIZACION_DELITOS_MAPA/static/js/main.49abf21b.chunk.js.map",
     "runtime-main.js": "/GEOLOCALIZACION_DELITOS_MAPA/static/js/runtime-main.0e3f52c0.js",
     "runtime-main.js.map": "/GEOLOCALIZACION_DELITOS_MAPA/static/js/runtime-main.0e3f52c0.js.map",
     "static/css/2.150d169a.chunk.css": "/GEOLOCALIZACION_DELITOS_MAPA/static/css/2.150d169a.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.a101e8e6.chunk.js",
     "static/css/main.1bb419ac.chunk.css",
-    "static/js/main.7073aa4f.chunk.js"
+    "static/js/main.49abf21b.chunk.js"
   ]
 }
