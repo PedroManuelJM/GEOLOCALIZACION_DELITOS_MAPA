@@ -1,0 +1,146 @@
+{
+  "delitos": [
+  {
+   "category":"Robo",
+   "location_type":"Force",
+   "location":{
+       "latitude":"-12.0622",
+       "street":{
+           "id":883221,
+           "name":"Avenida Jirón Huascarán"
+        },
+        "longitude":"-77.0286"
+    },
+    "context":"",
+    "outcome_status":null,
+    "persistent_id":"",
+    "id":78209889,
+    "location_subtype":"",
+    "month":"2019-10"
+  },
+
+  {"category":"Asesinato",
+    "location_type":"Force",
+    "location":{
+        "latitude":"-12.05976",
+        "street":{
+            "id":883303,
+            "name":"Avenida Jose Galvez "
+         },
+         "longitude":"-77.03309"
+     },
+     "context":"",
+     "outcome_status":null,
+     "persistent_id":"",
+     "id":78213207,
+     "location_subtype":"",
+     "month":"2019-10"
+   },
+
+   {"category":"Secuestro",
+    "location_type":"Force",
+    "location":{
+        "latitude":"-12.06129",
+        "street":{
+            "id":883101,
+            "name":"Avenida Garcilazo de la Vega"
+         },
+         "longitude":"-77.03742"
+     },
+     "context":"",
+     "outcome_status":null,
+     "persistent_id":"",
+     "id":78213101,
+     "location_subtype":"",
+     "month":"2019-10"
+   },
+   {"category":"Asesinato",
+    "location_type":"Force",
+    "location":{
+        "latitude":"-12.05235",
+        "street":{
+            "id":883101,
+            "name":"Jirón Apurimac"
+         },
+         "longitude":"-77.03243"
+     },
+     "context":"",
+     "outcome_status":null,
+     "persistent_id":"",
+     "id":78213101,
+     "location_subtype":"",
+     "month":"2019-10"
+   }, 
+   {"category":"Robo",
+    "location_type":"Force",
+    "location":{
+        "latitude":"-12.05541",
+        "street":{
+            "id":883101,
+            "name":"Avenida Abancay"
+         },
+         "longitude":"-77.03035"
+     },
+     "context":"",
+     "outcome_status":null,
+     "persistent_id":"",
+     "id":78213101,
+     "location_subtype":"",
+     "month":"2019-10"
+   },
+   {"category":"Secuestro",
+    "location_type":"Force",
+    "location":{
+        "latitude":"-12.05970",
+        "street":{
+            "id":883101,
+            "name":"Avenida Miguel Grau"
+         },
+         "longitude":"-77.03036"
+     },
+     "context":"",
+     "outcome_status":null,
+     "persistent_id":"",
+     "id":78213101,
+     "location_subtype":"",
+     "month":"2019-10"
+   },
+   {"category":"Secuestro",
+    "location_type":"Force",
+    "location":{
+        "latitude":"-12.06201",
+        "street":{
+            "id":883109,
+            "name":"Jirón García Naranjo"
+         },
+         "longitude":"-77.03354"
+     },
+     "context":"",
+     "outcome_status":null,
+     "persistent_id":"",
+     "id":78213109,
+     "location_subtype":"",
+     "month":"2019-10"
+   },
+   {"category":"Robo",
+    "location_type":"Force",
+    "location":{
+        "latitude":"-12.06134",
+        "street":{
+            "id":883109,
+            "name":"Avenida Brazil"
+         },
+         "longitude":"-77.04250"
+     },
+     "context":"",
+     "outcome_status":null,
+     "persistent_id":"",
+     "id":78213109,
+     "location_subtype":"",
+     "month":"2019-10"
+   }
+
+   
+]
+
+}
