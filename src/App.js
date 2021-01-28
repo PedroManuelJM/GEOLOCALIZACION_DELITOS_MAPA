@@ -4,10 +4,11 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import { Icon } from 'leaflet';
 //import useSwr from "swr";
 import * as delitosData from "./data/delitos.json";
+
 //const fetcher = (...args) => fetch(...args).then(response => response.json());
 
 const icon = new Icon({
-  iconUrl: "/robo.svg",
+  iconUrl: "https://image.flaticon.com/icons/svg/854/854866.svg",
   iconSize: [25, 25]
 });
 export default function App() {
@@ -30,15 +31,14 @@ export default function App() {
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
               />
-              {delitosData.delitos.map(park => (
+              {delitosData.delitos.map(delito => (
                 <Marker
-                  key={park.location.id}
+                  key={delito.location.id}
                   position={[
-                    park.location.latitude,
-                    park.location.longitude
+                    delito.location.latitude,
+                    delito.location.longitude
                   ]}
-                  eventHandlers={{ click: () => { setActivePark(park); }, }}
-
+                  eventHandlers={{ click: () => { setActivePark(delito); }, }}
                   icon={icon}
                 />
               ))}
